@@ -27,4 +27,4 @@ with distance 44.
 
 ## Time Complexity
 This implementation spends, at most, linear time. That is, **O**(*E + R*)
-where *E* is the number of edges and *R* the number of vertices without patents.
+where *E* is the number of edges and *R* the number of vertices without parents.
